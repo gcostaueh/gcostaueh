@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Olá, eu sou o Gabriel!
 
 Sou um profissional de tecnologia em transição para a área de **Dados**, com experiência em suporte técnico e integração de sistemas. Sempre fui apaixonado por tecnologia e resolução de problemas, e encontrei na análise de dados uma forma de transformar informações em decisões mais inteligentes.
