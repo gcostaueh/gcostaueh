@@ -1,5 +1,67 @@
 ## Hi there 👋
 
+# 👋 Olá, eu sou o Gabriel!
+
+Sou um profissional de tecnologia em transição para a área de **Dados**, com experiência em suporte técnico e integração de sistemas. Sempre fui apaixonado por tecnologia e resolução de problemas, e encontrei na análise de dados uma forma de transformar informações em decisões mais inteligentes.
+
+Atualmente, estou cursando um **Bootcamp de Ciência de Dados pela TripleTen**, onde venho desenvolvendo habilidades práticas em análise, manipulação e modelagem de dados. Tenho me aprofundado em ferramentas e técnicas que envolvem programação, estatística e pensamento analítico aplicado a negócios.
+
+---
+
+## 🚀 Sobre mim
+
+- 💻 Experiência como Analista de Suporte (Field)
+- 📊 Em transição para a área de Dados
+- 🧠 Foco em análise de dados e machine learning
+- 📚 Estudando constantemente e aplicando em projetos práticos
+- ⚙️ Experiência com APIs, integrações e troubleshooting
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens:** Python, SQL, JavaScript (básico), PHP, C#
+- **Bibliotecas Python:** pandas, numpy, matplotlib, seaborn, scikit-learn
+- **Banco de Dados:** SQL (consultas, joins, filtros, agregações)
+- **Ferramentas:** Git, GitHub, Postman, Power BI (básico), Excel
+- **Outros:** APIs REST, análise de logs, suporte a sistemas
+
+---
+
+## 📚 Atualmente estudando
+
+- Machine Learning (classificação, regressão)
+- Análise exploratória de dados (EDA)
+- Tratamento e limpeza de dados
+- Modelagem preditiva
+- Estatística aplicada a negócios
+
+---
+
+## 📈 Projetos em destaque
+
+🔹 Em breve — estou trabalhando em projetos práticos do bootcamp que envolvem:
+- Análise de dados de negócios  
+- Modelos de classificação e regressão  
+- Estudos com dados reais (SQL + Python)  
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade na área de dados como **Analista de Dados Júnior**, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e gerar valor através de dados.
+
+---
+
+## 📫 Vamos conversar?
+
+- 💼 LinkedIn: https://www.linkedin.com/in/gcostadev/
+- 📧 Email: gabriel.gacs12@gmail.com
+
+---
+
+⭐ Obrigado por visitar meu perfil!
+
 ![snake gif](https://github.com/gcostaueh/gcostaueh/blob/output/github-contribution-grid-snake.svg)
 
 <!--
