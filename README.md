@@ -38,10 +38,11 @@ Atualmente, estou cursando um **Bootcamp de Ciência de Dados pela TripleTen**, 
 
 ## 📈 Projetos em destaque
 
-🔹 Em breve — estou trabalhando em projetos práticos do bootcamp que envolvem:
-- Análise de dados de negócios  
-- Modelos de classificação e regressão  
-- Estudos com dados reais (SQL + Python)  
+Análise Estatística de Dados
+Introdução ao Aprendizado Automático
+Aprendizado Supervisionado
+
+Todos já com repositórios aqui no GitHub
 
 ---
 
