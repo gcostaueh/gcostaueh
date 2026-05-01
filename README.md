@@ -38,9 +38,9 @@ Atualmente, estou cursando um **Bootcamp de Ciência de Dados pela TripleTen**, 
 
 ## 📈 Projetos em destaque
 
-- Análise Estatística de Dados
-- Introdução ao Aprendizado Automático
-- Aprendizado Supervisionado
+- [Análise Estatística de Dados](https://github.com/gcostaueh/tripleten_sprint_4_analise_estatistica_de_dados)
+- [Introdução ao Aprendizado Automático](https://github.com/gcostaueh/tripleten_sprint_8_introducao_ao_aprendizado_automatico)
+- [Aprendizado Supervisionado](https://github.com/gcostaueh/tripleten_sprint_9_aprendizado_supervisionado)
 
 Todos já com repositórios aqui no GitHub
 
@@ -54,7 +54,7 @@ Busco minha primeira oportunidade na área de dados como **Analista de Dados Jú
 
 ## 📫 Vamos conversar?
 
-- 💼 LinkedIn: https://www.linkedin.com/in/gcostadev/
+- 💼 LinkedIn: [https://www.linkedin.com/in/gcostadev/](https://www.linkedin.com/in/gcostadev/)
 - 📧 Email: gabriel.gacs12@gmail.com
 
 ---
