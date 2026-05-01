@@ -38,9 +38,9 @@ Atualmente, estou cursando um **Bootcamp de Ciência de Dados pela TripleTen**, 
 
 ## 📈 Projetos em destaque
 
-Análise Estatística de Dados
-Introdução ao Aprendizado Automático
-Aprendizado Supervisionado
+- Análise Estatística de Dados
+- Introdução ao Aprendizado Automático
+- Aprendizado Supervisionado
 
 Todos já com repositórios aqui no GitHub
 
