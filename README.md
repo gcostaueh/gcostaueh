@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![snake gif](https://github.com/gcostaueh/gcostaueh/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **gcostaueh/gcostaueh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
